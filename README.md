@@ -11,8 +11,8 @@
 
 ***
 
-## CodeWars
-![CodeWars](https://www.codewars.com/users/merzhoev/badges/large)
+## Codewars
+![Codewars](https://www.codewars.com/users/merzhoev/badges/large)
 
 ***
 
@@ -26,7 +26,7 @@
   <img alt="WebPack" src="https://img.shields.io/badge/webpack-111111?style=for-the-badge&logo=Webpack" />   
   <img alt="Express" src="https://img.shields.io/badge/-Express-pink?style=for-the-badge&logo=Express&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-mongo_DB-white?style=for-the-badge&logo=mongoDB&logoColor=43853d" /> 
-
-
+  <img alt="MongoDB" src="https://img.shields.io/badge/-mongo_DB-white?style=for-the-badge&logo=mongoDB&logoColor=43853d" />
+  <img alt="Postman" src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=000000&logo=Postman&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=0d8200"/>
 </p>
