@@ -27,6 +27,6 @@
   <img alt="Express" src="https://img.shields.io/badge/-Express-pink?style=for-the-badge&logo=Express&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-mongo_DB-white?style=for-the-badge&logo=mongoDB&logoColor=43853d" />
-  <img alt="Postman" src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=000000&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=ffffff&logo=Postman&logoColor=FF6C37&label="/>
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=0d8200"/>
 </p>
