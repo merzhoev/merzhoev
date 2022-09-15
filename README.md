@@ -5,7 +5,7 @@
 ## Мои проекты:
 
 #### Foody &ndash; сайт рецептов. Основная фишка сайта в том, что пользователь указывает ингредиенты, которые у него есть, и ему выдаются блюда, которые он может из них приготовить.
-* <a href="https://foody-frontend.vercel.app" target="_blank">demo</a>
+* [demo](https://foody-frontend.vercel.app){:target="_blank"}
 * [client-code](https://github.com/merzhoev/foody-frontend)
 * [backend-code](https://github.com/merzhoev/foody-backend)
 
