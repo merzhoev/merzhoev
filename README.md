@@ -2,7 +2,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/arbimerzhoev)
 ***
 
-## Мои проекты:
+## Последний проект:
 
 #### Foody &ndash; сайт рецептов. Основная фишка сайта в том, что пользователь указывает ингредиенты, которые у него есть, и ему выдаются блюда, которые он может из них приготовить.
 * [demo](https://foody-frontend.vercel.app)
